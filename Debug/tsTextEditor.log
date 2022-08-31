@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c(37,18): warning C4013: 'kbhit' undefined; assuming extern returning int
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c(38,28): warning C4013: 'getch' undefined; assuming extern returning int
+  tsTextEditor.vcxproj -> D:\Projects\C\tsTextEditor\Debug\tsTextEditor.exe

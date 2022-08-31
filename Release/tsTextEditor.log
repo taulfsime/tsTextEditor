@@ -1,0 +1,9 @@
+﻿  Source.c
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c(37,18): warning C4013: 'kbhit' undefined; assuming extern returning int
+D:\Projects\C\tsTextEditor\tsTextEditor\Source.c(38,28): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating code
+  2 of 83 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tsTextEditor.vcxproj -> D:\Projects\C\tsTextEditor\Release\tsTextEditor.exe
